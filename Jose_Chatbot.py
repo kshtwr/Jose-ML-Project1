@@ -1,7 +1,7 @@
 import streamlit as st
-from langchain.llms import openai
+from langchain.llms import OpenAI
 from langchain.agents import create_csv_agent
-
+import pandas as pd
 
 st.title('⚽️ José: Your AI Football Analyst ⚽️')
 
