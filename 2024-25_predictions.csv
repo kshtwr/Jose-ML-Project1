@@ -1,0 +1,381 @@
+,Matchweek,Date,Home Team,Away Team,Winner
+0,1.0,2024-08-16,Manchester Utd,Fulham,Draw
+1,1.0,2024-08-17,Ipswich Town,Liverpool,Draw
+2,1.0,2024-08-17,Newcastle Utd,Southampton,Newcastle Utd
+3,1.0,2024-08-17,Nott'ham Forest,Bournemouth,Nott'ham Forest
+4,1.0,2024-08-17,Everton,Brighton,Draw
+5,1.0,2024-08-17,Arsenal,Wolves,Draw
+6,1.0,2024-08-17,West Ham,Aston Villa,Draw
+7,1.0,2024-08-18,Brentford,Crystal Palace,Draw
+8,1.0,2024-08-18,Chelsea,Manchester City,Draw
+9,1.0,2024-08-19,Leicester City,Tottenham,Draw
+10,2.0,2024-08-24,Brighton,Manchester Utd,Manchester Utd
+11,2.0,2024-08-24,Tottenham,Everton,Draw
+12,2.0,2024-08-24,Fulham,Leicester City,Fulham
+13,2.0,2024-08-24,Crystal Palace,West Ham,Draw
+14,2.0,2024-08-24,Manchester City,Ipswich Town,Draw
+15,2.0,2024-08-24,Southampton,Nott'ham Forest,Southampton
+16,2.0,2024-08-24,Aston Villa,Arsenal,Draw
+17,2.0,2024-08-25,Bournemouth,Newcastle Utd,Draw
+18,2.0,2024-08-25,Wolves,Chelsea,Wolves
+19,2.0,2024-08-25,Liverpool,Brentford,Liverpool
+20,3.0,2024-08-31,Arsenal,Brighton,Draw
+21,3.0,2024-08-31,Everton,Bournemouth,Everton
+22,3.0,2024-08-31,Leicester City,Aston Villa,Draw
+23,3.0,2024-08-31,Nott'ham Forest,Wolves,Draw
+24,3.0,2024-08-31,Ipswich Town,Fulham,Draw
+25,3.0,2024-08-31,Brentford,Southampton,Brentford
+26,3.0,2024-08-31,West Ham,Manchester City,Draw
+27,3.0,2024-09-01,Newcastle Utd,Tottenham,Draw
+28,3.0,2024-09-01,Chelsea,Crystal Palace,Crystal Palace
+29,3.0,2024-09-01,Manchester Utd,Liverpool,Draw
+30,4.0,2024-09-14,Southampton,Manchester Utd,Manchester Utd
+31,4.0,2024-09-14,Brighton,Ipswich Town,Draw
+32,4.0,2024-09-14,Crystal Palace,Leicester City,Crystal Palace
+33,4.0,2024-09-14,Manchester City,Brentford,Draw
+34,4.0,2024-09-14,Liverpool,Nott'ham Forest,Liverpool
+35,4.0,2024-09-14,Fulham,West Ham,Draw
+36,4.0,2024-09-14,Aston Villa,Everton,Draw
+37,4.0,2024-09-14,Bournemouth,Chelsea,Draw
+38,4.0,2024-09-15,Tottenham,Arsenal,Draw
+39,4.0,2024-09-15,Wolves,Newcastle Utd,Newcastle Utd
+40,5.0,2024-09-21,West Ham,Chelsea,Draw
+41,5.0,2024-09-21,Liverpool,Bournemouth,Liverpool
+42,5.0,2024-09-21,Leicester City,Everton,Draw
+43,5.0,2024-09-21,Southampton,Ipswich Town,Draw
+44,5.0,2024-09-21,Tottenham,Brentford,Draw
+45,5.0,2024-09-21,Fulham,Newcastle Utd,Draw
+46,5.0,2024-09-21,Aston Villa,Wolves,Draw
+47,5.0,2024-09-21,Crystal Palace,Manchester Utd,Draw
+48,5.0,2024-09-22,Brighton,Nott'ham Forest,Brighton
+49,5.0,2024-09-22,Manchester City,Arsenal,Draw
+50,6.0,2024-09-28,Newcastle Utd,Manchester City,Draw
+51,6.0,2024-09-28,Chelsea,Brighton,Draw
+52,6.0,2024-09-28,Arsenal,Leicester City,Arsenal
+53,6.0,2024-09-28,Brentford,West Ham,Draw
+54,6.0,2024-09-28,Everton,Crystal Palace,Draw
+55,6.0,2024-09-28,Nott'ham Forest,Fulham,Draw
+56,6.0,2024-09-28,Wolves,Liverpool,Draw
+57,6.0,2024-09-29,Ipswich Town,Aston Villa,Draw
+58,6.0,2024-09-29,Manchester Utd,Tottenham,Draw
+59,6.0,2024-09-30,Bournemouth,Southampton,Bournemouth
+60,7.0,2024-10-05,Crystal Palace,Liverpool,Draw
+61,7.0,2024-10-05,Manchester City,Fulham,Draw
+62,7.0,2024-10-05,Brentford,Wolves,Draw
+63,7.0,2024-10-05,West Ham,Ipswich Town,Draw
+64,7.0,2024-10-05,Aston Villa,Manchester Utd,Aston Villa
+65,7.0,2024-10-05,Chelsea,Nott'ham Forest,Chelsea
+66,7.0,2024-10-05,Arsenal,Southampton,Arsenal
+67,7.0,2024-10-05,Leicester City,Bournemouth,Leicester City
+68,7.0,2024-10-05,Brighton,Tottenham,Draw
+69,7.0,2024-10-05,Everton,Newcastle Utd,Draw
+70,8.0,2024-10-19,Bournemouth,Arsenal,Draw
+71,8.0,2024-10-19,Southampton,Leicester City,Southampton
+72,8.0,2024-10-19,Ipswich Town,Everton,Draw
+73,8.0,2024-10-19,Newcastle Utd,Brighton,Draw
+74,8.0,2024-10-19,Nott'ham Forest,Crystal Palace,Draw
+75,8.0,2024-10-19,Fulham,Aston Villa,Draw
+76,8.0,2024-10-19,Manchester Utd,Brentford,Draw
+77,8.0,2024-10-19,Wolves,Manchester City,Draw
+78,8.0,2024-10-19,Tottenham,West Ham,Draw
+79,8.0,2024-10-19,Liverpool,Chelsea,Draw
+80,9.0,2024-10-26,Everton,Fulham,Draw
+81,9.0,2024-10-26,Brentford,Ipswich Town,Draw
+82,9.0,2024-10-26,Leicester City,Nott'ham Forest,Leicester City
+83,9.0,2024-10-26,Chelsea,Newcastle Utd,Draw
+84,9.0,2024-10-26,West Ham,Manchester Utd,West Ham
+85,9.0,2024-10-26,Arsenal,Liverpool,Draw
+86,9.0,2024-10-26,Brighton,Wolves,Draw
+87,9.0,2024-10-26,Manchester City,Southampton,Manchester City
+88,9.0,2024-10-26,Aston Villa,Bournemouth,Aston Villa
+89,9.0,2024-10-26,Crystal Palace,Tottenham,Draw
+90,10.0,2024-11-02,Manchester Utd,Chelsea,Draw
+91,10.0,2024-11-02,Southampton,Everton,Draw
+92,10.0,2024-11-02,Liverpool,Brighton,Draw
+93,10.0,2024-11-02,Tottenham,Aston Villa,Draw
+94,10.0,2024-11-02,Wolves,Crystal Palace,Draw
+95,10.0,2024-11-02,Nott'ham Forest,West Ham,Draw
+96,10.0,2024-11-02,Newcastle Utd,Arsenal,Draw
+97,10.0,2024-11-02,Fulham,Brentford,Draw
+98,10.0,2024-11-02,Ipswich Town,Leicester City,Ipswich Town
+99,10.0,2024-11-02,Bournemouth,Manchester City,Draw
+100,11.0,2024-11-09,Brentford,Bournemouth,Brentford
+101,11.0,2024-11-09,Chelsea,Arsenal,Draw
+102,11.0,2024-11-09,Manchester Utd,Leicester City,Manchester Utd
+103,11.0,2024-11-09,Brighton,Manchester City,Draw
+104,11.0,2024-11-09,Liverpool,Aston Villa,Draw
+105,11.0,2024-11-09,Nott'ham Forest,Newcastle Utd,Draw
+106,11.0,2024-11-09,West Ham,Everton,Draw
+107,11.0,2024-11-09,Crystal Palace,Fulham,Draw
+108,11.0,2024-11-09,Wolves,Southampton,Wolves
+109,11.0,2024-11-09,Tottenham,Ipswich Town,Draw
+110,12.0,2024-11-23,Arsenal,Nott'ham Forest,Arsenal
+111,12.0,2024-11-23,Bournemouth,Brighton,Draw
+112,12.0,2024-11-23,Newcastle Utd,West Ham,Draw
+113,12.0,2024-11-23,Leicester City,Chelsea,Draw
+114,12.0,2024-11-23,Aston Villa,Crystal Palace,Draw
+115,12.0,2024-11-23,Manchester City,Tottenham,Draw
+116,12.0,2024-11-23,Ipswich Town,Manchester Utd,Ipswich Town
+117,12.0,2024-11-23,Everton,Brentford,Draw
+118,12.0,2024-11-23,Southampton,Liverpool,Draw
+119,12.0,2024-11-23,Fulham,Wolves,Draw
+120,13.0,2024-11-30,Chelsea,Aston Villa,Draw
+121,13.0,2024-11-30,Liverpool,Manchester City,Draw
+122,13.0,2024-11-30,Tottenham,Fulham,Draw
+123,13.0,2024-11-30,Crystal Palace,Newcastle Utd,Draw
+124,13.0,2024-11-30,Wolves,Bournemouth,Wolves
+125,13.0,2024-11-30,Brighton,Southampton,Brighton
+126,13.0,2024-11-30,Nott'ham Forest,Ipswich Town,Draw
+127,13.0,2024-11-30,Manchester Utd,Everton,Draw
+128,13.0,2024-11-30,Brentford,Leicester City,Brentford
+129,13.0,2024-11-30,West Ham,Arsenal,Draw
+130,14.0,2024-12-03,Fulham,Brighton,Draw
+131,14.0,2024-12-03,Leicester City,West Ham,West Ham
+132,14.0,2024-12-03,Everton,Wolves,Draw
+133,14.0,2024-12-03,Arsenal,Manchester Utd,Draw
+134,14.0,2024-12-03,Aston Villa,Brentford,Aston Villa
+135,14.0,2024-12-03,Bournemouth,Tottenham,Draw
+136,14.0,2024-12-03,Ipswich Town,Crystal Palace,Ipswich Town
+137,14.0,2024-12-04,Newcastle Utd,Liverpool,Draw
+138,14.0,2024-12-04,Manchester City,Nott'ham Forest,Manchester City
+139,14.0,2024-12-04,Southampton,Chelsea,Chelsea
+140,15.0,2024-12-07,Fulham,Arsenal,Draw
+141,15.0,2024-12-07,Manchester Utd,Nott'ham Forest,Manchester Utd
+142,15.0,2024-12-07,Brentford,Newcastle Utd,Draw
+143,15.0,2024-12-07,Ipswich Town,Bournemouth,Ipswich Town
+144,15.0,2024-12-07,West Ham,Wolves,Draw
+145,15.0,2024-12-07,Crystal Palace,Manchester City,Draw
+146,15.0,2024-12-07,Leicester City,Brighton,Draw
+147,15.0,2024-12-07,Everton,Liverpool,Draw
+148,15.0,2024-12-07,Aston Villa,Southampton,Aston Villa
+149,15.0,2024-12-07,Tottenham,Chelsea,Draw
+150,16.0,2024-12-14,Newcastle Utd,Leicester City,Newcastle Utd
+151,16.0,2024-12-14,Nott'ham Forest,Aston Villa,Draw
+152,16.0,2024-12-14,Arsenal,Everton,Draw
+153,16.0,2024-12-14,Southampton,Tottenham,Draw
+154,16.0,2024-12-14,Manchester City,Manchester Utd,Manchester City
+155,16.0,2024-12-14,Wolves,Ipswich Town,Draw
+156,16.0,2024-12-14,Bournemouth,West Ham,Draw
+157,16.0,2024-12-14,Chelsea,Brentford,Draw
+158,16.0,2024-12-14,Liverpool,Fulham,Draw
+159,16.0,2024-12-14,Brighton,Crystal Palace,Draw
+160,17.0,2024-12-21,West Ham,Brighton,Draw
+161,17.0,2024-12-21,Brentford,Nott'ham Forest,Brentford
+162,17.0,2024-12-21,Tottenham,Liverpool,Draw
+163,17.0,2024-12-21,Crystal Palace,Arsenal,Draw
+164,17.0,2024-12-21,Ipswich Town,Newcastle Utd,Draw
+165,17.0,2024-12-21,Manchester Utd,Bournemouth,Manchester Utd
+166,17.0,2024-12-21,Fulham,Southampton,Fulham
+167,17.0,2024-12-21,Aston Villa,Manchester City,Draw
+168,17.0,2024-12-21,Everton,Chelsea,Draw
+169,17.0,2024-12-21,Leicester City,Wolves,Draw
+170,18.0,2024-12-26,Chelsea,Fulham,Chelsea
+171,18.0,2024-12-26,Brighton,Brentford,Draw
+172,18.0,2024-12-26,Liverpool,Leicester City,Liverpool
+173,18.0,2024-12-26,Arsenal,Ipswich Town,Arsenal
+174,18.0,2024-12-26,Wolves,Manchester Utd,Draw
+175,18.0,2024-12-26,Southampton,West Ham,West Ham
+176,18.0,2024-12-26,Manchester City,Everton,Manchester City
+177,18.0,2024-12-26,Bournemouth,Crystal Palace,Bournemouth
+178,18.0,2024-12-26,Newcastle Utd,Aston Villa,Newcastle Utd
+179,18.0,2024-12-26,Nott'ham Forest,Tottenham,Draw
+180,19.0,2024-12-29,Tottenham,Wolves,Tottenham
+181,19.0,2024-12-29,Fulham,Bournemouth,Fulham
+182,19.0,2024-12-29,Aston Villa,Brighton,Aston Villa
+183,19.0,2024-12-29,Everton,Nott'ham Forest,Draw
+184,19.0,2024-12-29,Crystal Palace,Southampton,Draw
+185,19.0,2024-12-29,Brentford,Arsenal,Draw
+186,19.0,2024-12-29,Ipswich Town,Chelsea,Ipswich Town
+187,19.0,2024-12-29,Leicester City,Manchester City,Draw
+188,19.0,2024-12-29,Manchester Utd,Newcastle Utd,Draw
+189,19.0,2024-12-29,West Ham,Liverpool,Liverpool
+190,20.0,2025-01-04,Southampton,Brentford,Draw
+191,20.0,2025-01-04,Bournemouth,Everton,Draw
+192,20.0,2025-01-04,Liverpool,Manchester Utd,Liverpool
+193,20.0,2025-01-04,Brighton,Arsenal,Draw
+194,20.0,2025-01-04,Wolves,Nott'ham Forest,Wolves
+195,20.0,2025-01-04,Fulham,Ipswich Town,Draw
+196,20.0,2025-01-04,Tottenham,Newcastle Utd,Draw
+197,20.0,2025-01-04,Crystal Palace,Chelsea,Draw
+198,20.0,2025-01-04,Manchester City,West Ham,Draw
+199,20.0,2025-01-04,Aston Villa,Leicester City,Aston Villa
+200,21.0,2025-01-14,Nott'ham Forest,Liverpool,Draw
+201,21.0,2025-01-14,Everton,Aston Villa,Draw
+202,21.0,2025-01-14,Brentford,Manchester City,Draw
+203,21.0,2025-01-14,Leicester City,Crystal Palace,Crystal Palace
+204,21.0,2025-01-14,Ipswich Town,Brighton,Draw
+205,21.0,2025-01-14,West Ham,Fulham,West Ham
+206,21.0,2025-01-14,Arsenal,Tottenham,Draw
+207,21.0,2025-01-15,Newcastle Utd,Wolves,Draw
+208,21.0,2025-01-15,Chelsea,Bournemouth,Draw
+209,21.0,2025-01-15,Manchester Utd,Southampton,Manchester Utd
+210,22.0,2025-01-18,West Ham,Crystal Palace,Draw
+211,22.0,2025-01-18,Arsenal,Aston Villa,Draw
+212,22.0,2025-01-18,Manchester Utd,Brighton,Draw
+213,22.0,2025-01-18,Brentford,Liverpool,Draw
+214,22.0,2025-01-18,Ipswich Town,Manchester City,Draw
+215,22.0,2025-01-18,Newcastle Utd,Bournemouth,Newcastle Utd
+216,22.0,2025-01-18,Leicester City,Fulham,Draw
+217,22.0,2025-01-18,Nott'ham Forest,Southampton,Nott'ham Forest
+218,22.0,2025-01-18,Chelsea,Wolves,Draw
+219,22.0,2025-01-18,Everton,Tottenham,Draw
+220,23.0,2025-01-25,Wolves,Arsenal,Draw
+221,23.0,2025-01-25,Crystal Palace,Brentford,Draw
+222,23.0,2025-01-25,Southampton,Newcastle Utd,Draw
+223,23.0,2025-01-25,Tottenham,Leicester City,Tottenham
+224,23.0,2025-01-25,Brighton,Everton,Draw
+225,23.0,2025-01-25,Aston Villa,West Ham,Draw
+226,23.0,2025-01-25,Manchester City,Chelsea,Draw
+227,23.0,2025-01-25,Fulham,Manchester Utd,Fulham
+228,23.0,2025-01-25,Liverpool,Ipswich Town,Draw
+229,23.0,2025-01-25,Bournemouth,Nott'ham Forest,Bournemouth
+230,24.0,2025-02-01,Ipswich Town,Southampton,Ipswich Town
+231,24.0,2025-02-01,Arsenal,Manchester City,Draw
+232,24.0,2025-02-01,Everton,Leicester City,Everton
+233,24.0,2025-02-01,Newcastle Utd,Fulham,Draw
+234,24.0,2025-02-01,Wolves,Aston Villa,Draw
+235,24.0,2025-02-01,Brentford,Tottenham,Draw
+236,24.0,2025-02-01,Manchester Utd,Crystal Palace,Draw
+237,24.0,2025-02-01,Bournemouth,Liverpool,Draw
+238,24.0,2025-02-01,Nott'ham Forest,Brighton,Draw
+239,24.0,2025-02-01,Chelsea,West Ham,Draw
+240,25.0,2025-02-15,Aston Villa,Ipswich Town,Draw
+241,25.0,2025-02-15,Tottenham,Manchester Utd,Tottenham
+242,25.0,2025-02-15,Crystal Palace,Everton,Draw
+243,25.0,2025-02-15,Fulham,Nott'ham Forest,Fulham
+244,25.0,2025-02-15,Liverpool,Wolves,Draw
+245,25.0,2025-02-15,West Ham,Brentford,Draw
+246,25.0,2025-02-15,Manchester City,Newcastle Utd,Draw
+247,25.0,2025-02-15,Leicester City,Arsenal,Draw
+248,25.0,2025-02-15,Southampton,Bournemouth,Southampton
+249,25.0,2025-02-15,Brighton,Chelsea,Draw
+250,26.0,2025-02-22,Aston Villa,Chelsea,Draw
+251,26.0,2025-02-22,Fulham,Crystal Palace,Draw
+252,26.0,2025-02-22,Ipswich Town,Tottenham,Draw
+253,26.0,2025-02-22,Newcastle Utd,Nott'ham Forest,Newcastle Utd
+254,26.0,2025-02-22,Bournemouth,Wolves,Draw
+255,26.0,2025-02-22,Leicester City,Brentford,Draw
+256,26.0,2025-02-22,Arsenal,West Ham,Draw
+257,26.0,2025-02-22,Manchester City,Liverpool,Draw
+258,26.0,2025-02-22,Everton,Manchester Utd,Everton
+259,26.0,2025-02-22,Southampton,Brighton,Draw
+260,27.0,2025-02-25,West Ham,Leicester City,Draw
+261,27.0,2025-02-25,Brentford,Everton,Brentford
+262,27.0,2025-02-25,Tottenham,Manchester City,Draw
+263,27.0,2025-02-25,Wolves,Fulham,Wolves
+264,27.0,2025-02-25,Nott'ham Forest,Arsenal,Draw
+265,27.0,2025-02-25,Brighton,Bournemouth,Draw
+266,27.0,2025-02-25,Crystal Palace,Aston Villa,Crystal Palace
+267,27.0,2025-02-26,Chelsea,Southampton,Draw
+268,27.0,2025-02-26,Liverpool,Newcastle Utd,Liverpool
+269,27.0,2025-02-26,Manchester Utd,Ipswich Town,Manchester Utd
+270,28.0,2025-03-08,Liverpool,Southampton,Liverpool
+271,28.0,2025-03-08,Chelsea,Leicester City,Chelsea
+272,28.0,2025-03-08,Wolves,Everton,Draw
+273,28.0,2025-03-08,West Ham,Newcastle Utd,Draw
+274,28.0,2025-03-08,Tottenham,Bournemouth,Tottenham
+275,28.0,2025-03-08,Manchester Utd,Arsenal,Draw
+276,28.0,2025-03-08,Crystal Palace,Ipswich Town,Draw
+277,28.0,2025-03-08,Nott'ham Forest,Manchester City,Draw
+278,28.0,2025-03-08,Brighton,Fulham,Draw
+279,28.0,2025-03-08,Brentford,Aston Villa,Draw
+280,29.0,2025-03-15,Arsenal,Chelsea,Draw
+281,29.0,2025-03-15,Aston Villa,Liverpool,Draw
+282,29.0,2025-03-15,Fulham,Tottenham,Draw
+283,29.0,2025-03-15,Newcastle Utd,Crystal Palace,Draw
+284,29.0,2025-03-15,Leicester City,Manchester Utd,Leicester City
+285,29.0,2025-03-15,Manchester City,Brighton,Draw
+286,29.0,2025-03-15,Ipswich Town,Nott'ham Forest,Ipswich Town
+287,29.0,2025-03-15,Everton,West Ham,Draw
+288,29.0,2025-03-15,Southampton,Wolves,Draw
+289,29.0,2025-03-15,Bournemouth,Brentford,Draw
+290,30.0,2025-04-01,Brighton,Aston Villa,Draw
+291,30.0,2025-04-01,Bournemouth,Ipswich Town,Draw
+292,30.0,2025-04-01,Wolves,West Ham,Draw
+293,30.0,2025-04-01,Arsenal,Fulham,Arsenal
+294,30.0,2025-04-01,Nott'ham Forest,Manchester Utd,Draw
+295,30.0,2025-04-02,Southampton,Crystal Palace,Crystal Palace
+296,30.0,2025-04-02,Chelsea,Tottenham,Draw
+297,30.0,2025-04-02,Manchester City,Leicester City,Draw
+298,30.0,2025-04-02,Newcastle Utd,Brentford,Newcastle Utd
+299,30.0,2025-04-02,Liverpool,Everton,Liverpool
+300,31.0,2025-04-05,West Ham,Bournemouth,West Ham
+301,31.0,2025-04-05,Manchester Utd,Manchester City,Draw
+302,31.0,2025-04-05,Brentford,Chelsea,Draw
+303,31.0,2025-04-05,Aston Villa,Nott'ham Forest,Aston Villa
+304,31.0,2025-04-05,Everton,Arsenal,Draw
+305,31.0,2025-04-05,Fulham,Liverpool,Draw
+306,31.0,2025-04-05,Ipswich Town,Wolves,Draw
+307,31.0,2025-04-05,Leicester City,Newcastle Utd,Draw
+308,31.0,2025-04-05,Crystal Palace,Brighton,Draw
+309,31.0,2025-04-05,Tottenham,Southampton,Tottenham
+310,32.0,2025-04-12,Bournemouth,Fulham,Draw
+311,32.0,2025-04-12,Newcastle Utd,Manchester Utd,Newcastle Utd
+312,32.0,2025-04-12,Arsenal,Brentford,Draw
+313,32.0,2025-04-12,Liverpool,West Ham,Draw
+314,32.0,2025-04-12,Wolves,Tottenham,Draw
+315,32.0,2025-04-12,Brighton,Leicester City,Brighton
+316,32.0,2025-04-12,Manchester City,Crystal Palace,Draw
+317,32.0,2025-04-12,Nott'ham Forest,Everton,Draw
+318,32.0,2025-04-12,Chelsea,Ipswich Town,Draw
+319,32.0,2025-04-12,Southampton,Aston Villa,Draw
+320,33.0,2025-04-19,Leicester City,Liverpool,Draw
+321,33.0,2025-04-19,Ipswich Town,Arsenal,Draw
+322,33.0,2025-04-19,Brentford,Brighton,Draw
+323,33.0,2025-04-19,Aston Villa,Newcastle Utd,Draw
+324,33.0,2025-04-19,Tottenham,Nott'ham Forest,Tottenham
+325,33.0,2025-04-19,West Ham,Southampton,West Ham
+326,33.0,2025-04-19,Crystal Palace,Bournemouth,Crystal Palace
+327,33.0,2025-04-19,Everton,Manchester City,Draw
+328,33.0,2025-04-19,Fulham,Chelsea,Draw
+329,33.0,2025-04-19,Manchester Utd,Wolves,Draw
+330,34.0,2025-04-26,Chelsea,Everton,Draw
+331,34.0,2025-04-26,Wolves,Leicester City,Wolves
+332,34.0,2025-04-26,Newcastle Utd,Ipswich Town,Draw
+333,34.0,2025-04-26,Manchester City,Aston Villa,Draw
+334,34.0,2025-04-26,Liverpool,Tottenham,Draw
+335,34.0,2025-04-26,Arsenal,Crystal Palace,Draw
+336,34.0,2025-04-26,Bournemouth,Manchester Utd,Bournemouth
+337,34.0,2025-04-26,Southampton,Fulham,Draw
+338,34.0,2025-04-26,Nott'ham Forest,Brentford,Draw
+339,34.0,2025-04-26,Brighton,West Ham,Draw
+340,35.0,2025-05-03,Chelsea,Liverpool,Draw
+341,35.0,2025-05-03,Brentford,Manchester Utd,Brentford
+342,35.0,2025-05-03,Manchester City,Wolves,Draw
+343,35.0,2025-05-03,West Ham,Tottenham,Draw
+344,35.0,2025-05-03,Crystal Palace,Nott'ham Forest,Crystal Palace
+345,35.0,2025-05-03,Arsenal,Bournemouth,Arsenal
+346,35.0,2025-05-03,Everton,Ipswich Town,Draw
+347,35.0,2025-05-03,Aston Villa,Fulham,Draw
+348,35.0,2025-05-03,Brighton,Newcastle Utd,Draw
+349,35.0,2025-05-03,Leicester City,Southampton,Leicester City
+350,36.0,2025-05-10,Liverpool,Arsenal,Draw
+351,36.0,2025-05-10,Southampton,Manchester City,Draw
+352,36.0,2025-05-10,Tottenham,Crystal Palace,Draw
+353,36.0,2025-05-10,Fulham,Everton,Draw
+354,36.0,2025-05-10,Newcastle Utd,Chelsea,Draw
+355,36.0,2025-05-10,Nott'ham Forest,Leicester City,Nott'ham Forest
+356,36.0,2025-05-10,Manchester Utd,West Ham,Draw
+357,36.0,2025-05-10,Bournemouth,Aston Villa,Draw
+358,36.0,2025-05-10,Ipswich Town,Brentford,Draw
+359,36.0,2025-05-10,Wolves,Brighton,Draw
+360,37.0,2025-05-18,Brentford,Fulham,Brentford
+361,37.0,2025-05-18,Arsenal,Newcastle Utd,Draw
+362,37.0,2025-05-18,Brighton,Liverpool,Draw
+363,37.0,2025-05-18,Leicester City,Ipswich Town,Leicester City
+364,37.0,2025-05-18,West Ham,Nott'ham Forest,Nott'ham Forest
+365,37.0,2025-05-18,Everton,Southampton,Draw
+366,37.0,2025-05-18,Aston Villa,Tottenham,Draw
+367,37.0,2025-05-18,Chelsea,Manchester Utd,Chelsea
+368,37.0,2025-05-18,Manchester City,Bournemouth,Manchester City
+369,37.0,2025-05-18,Crystal Palace,Wolves,Crystal Palace
+370,38.0,2025-05-25,Southampton,Arsenal,Draw
+371,38.0,2025-05-25,Liverpool,Crystal Palace,Liverpool
+372,38.0,2025-05-25,Ipswich Town,West Ham,Ipswich Town
+373,38.0,2025-05-25,Bournemouth,Leicester City,Leicester City
+374,38.0,2025-05-25,Newcastle Utd,Everton,Newcastle Utd
+375,38.0,2025-05-25,Fulham,Manchester City,Manchester City
+376,38.0,2025-05-25,Nott'ham Forest,Chelsea,Chelsea
+377,38.0,2025-05-25,Manchester Utd,Aston Villa,Manchester Utd
+378,38.0,2025-05-25,Wolves,Brentford,Brentford
+379,38.0,2025-05-25,Tottenham,Brighton,Draw
