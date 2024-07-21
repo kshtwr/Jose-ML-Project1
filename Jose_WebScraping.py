@@ -97,3 +97,6 @@ for year in years:                              # iterating through past seasons
 all_matches_df = pd.concat(all_matches)
 all_matches_df.to_csv("all_plmatches_23to20.csv")
 all_matches_df.columns
+
+df = pd.read_csv("/Users/keshav/Documents/Projects/Jose_Buildspace/all_plmatches_23to20.csv")
+df.columns
