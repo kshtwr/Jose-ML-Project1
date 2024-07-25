@@ -22,9 +22,9 @@ def main():
     
     database_csv = None
     if option == "Past Seasons":
-        database_csv = "/Users/keshav/Documents/Projects/Jose_Buildspace/all_plmatches_23to20.csv"
+        database_csv = "all_plmatches_23to20.csv"
     elif option == "Predictions":
-        database_csv = "/Users/keshav/Documents/Projects/Jose_Buildspace/2024-25_predictions.csv"
+        database_csv = "2024-25_predictions.csv"
    
     llm = OpenAI(temperature= 0)
     agent = create_csv_agent(llm, path=database_csv, verbose = True, allow_dangerous_code = True)
