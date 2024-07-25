@@ -1,7 +1,7 @@
 # Jose-ML-Project1
 José, is a chat-bot that refers to 2 csv files with data of the past 3 Premier League seasons, and predictions for the next season, to provide you detailed insight into your favorite footballing team. Oh, and he does so in the same way as his famous name-sake and legendary football manager, José Mourinho.
 
-To use the site, visit: https://jose-ml-project1.streamlit.app/
+To use the site, visit this [link](https://jose-ml-project1.streamlit.app/)
 
 ## Jose_WebScraping.py
 This Python script scrapes Premier League match data (from FBref.com) for the seasons from 2023 to 2021. It collects data on scores, fixtures, goal and shot creation, and shooting statistics for each team in the league. The script uses requests to fetch web data, BeautifulSoup to parse HTML, and pandas to handle dataframes. The data is stored in a CSV file for further analysis.
