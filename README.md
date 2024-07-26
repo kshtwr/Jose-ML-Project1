@@ -58,4 +58,30 @@ This Python script predicts the outcomes of Premier League matches for the 2024-
 This CSV file contains predictions (Winner/Draw) for each fixture for each Premier League squad for the next season (2024-25). The column headings include 'Matchweek', 'Date', 'Home Team', 'Away Team', 'Winner'. 
 
 **Note**: The data is slightly skewed in favour of teams that have not featured in the league for the past 3 seasons (for e.g. Ipswich Town). Moreover, there is a definite inclination towards draws over definitive wins/losses. Lastly, the predictions were made on previously established base predictors - Opponent, Venue, Day & Time.
-  
+
+## Jose_Chatbot.py
+This Python script uses Streamlit to construct a basic GUI and host the Chatbot-based web application. It calls upon the OpenAI API to chat with both the aforementioned CSV files, depending on which option you pick. It is instructed to answer in line with José Mourinho's personality and delivers answers to the queries made in a user friendly manner!
+
+### Prerequisites
+- `Python 3.7+`
+- `Streamlit`
+- `OpenAI Python Client`
+- `Pandas` library
+- `Python-dotenv` library
+- `Tabulate` (optional dependency)
+
+### Script Flow
+- Import Libraries
+- Set Up Streamlit Page Configuration
+- Define the Main Function
+- Load Environment Variables
+- Check for OpenAI API Key
+- Construct Streamlit GUI
+- Determine CSV File Based on User Selection
+- Initialize the OpenAI Language Model
+- Create CSV Agent Instance
+- Define Interaction Rules (Prompt Engineering)
+- Handle User Questions
+- Run the Main function
+
+**Note**: You can find all the requirements to run this app locally in `requirements.txt`. Moreover, you do not require your own API key as of 2024 to use the web application!
