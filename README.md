@@ -2,6 +2,7 @@
 José, is a chat-bot that refers to 2 csv files with data of the past 3 Premier League seasons, and predictions for the next season, to provide you detailed insight into your favorite footballing team. Oh, and he does so in the same way as his famous name-sake and legendary football manager, José Mourinho.
 
 Live Demo: [jose-ml-project1.streamlit.app/](https://jose-ml-project1.streamlit.app/)
+
 Video: [youtu.be/obMzFuxJmz4](https://youtu.be/obMzFuxJmz4)
 
 ## Jose_WebScraping.py
